@@ -1,0 +1,15 @@
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/testovoe
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/testovoe.deps.json
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/testovoe.runtimeconfig.json
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/testovoe.dll
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/ref/testovoe.dll
+/home/nikolai/RiderProjects/testovoe/testovoe/bin/Debug/net6.0/testovoe.pdb
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.csproj.AssemblyReference.cache
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.AssemblyInfoInputs.cache
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.AssemblyInfo.cs
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.csproj.CoreCompileInputs.cache
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.dll
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/ref/testovoe.dll
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.pdb
+/home/nikolai/RiderProjects/testovoe/testovoe/obj/Debug/net6.0/testovoe.genruntimeconfig.cache
